@@ -1,7 +1,5 @@
 package recursividad;
 
-import java.util.Iterator;
-
 public class Matriuska {
 
 	public static void main(String[] args) {
