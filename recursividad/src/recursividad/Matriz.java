@@ -20,7 +20,6 @@ public class Matriz {
 
     public static int[][] crearMatriz(int dimension) {
         int[][] array = new int[dimension][dimension];
-
         System.out.println("Introduce los valores del array:");
         for (int i = 0; i < dimension; i++) {
             for (int j = 0; j < dimension; j++) {
