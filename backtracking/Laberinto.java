@@ -1,4 +1,4 @@
-package backtracking;
+
 
 public class Laberinto{
     
