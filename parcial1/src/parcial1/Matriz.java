@@ -31,7 +31,7 @@ public class Matriz {
 	
 	public static void recorrerMatriz(String[][] matriz, int i, int j, ArrayList<String> listaNumeros) {
         // Caso base: si llegamos al final de la matriz
-        if (i >= matriz.length) {
+        if (i < 0) {
             return;
         }
 
@@ -48,7 +48,7 @@ public class Matriz {
         if (j < matriz[i].length - 1) {
             recorrerMatriz(matriz, i, j + 1, listaNumeros); // Avanza en las columnas
         } else {
-            recorrerMatriz(matriz, i + 1, 0, listaNumeros); // Avanza a la siguiente fila
+            recorrerMatriz(matriz, i - 1, 0, listaNumeros); // Avanza a la siguiente fila
         }
     }
 	

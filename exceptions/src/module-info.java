@@ -5,5 +5,5 @@
  * @author Admin
  *
  */
-module persistencia {
+module exceptions {
 }

@@ -1,8 +1,6 @@
-oct 06, 2020 7:02:44 PM flujosDatos.EjemplosBasicos archivoRegistro
-INFORMACI�N: Primer mensaje 1.1
-
-oct 06, 2020 7:02:44 PM flujosDatos.EjemplosBasicos archivoRegistro
+sep. 23, 2024 12:07:31 P. M. flujosDatos.EjemplosBasicos archivoRegistro
+INFORMACIÓN: Primer mensaje 1.1
+sep. 23, 2024 12:07:31 P. M. flujosDatos.EjemplosBasicos archivoRegistro
 ADVERTENCIA: Segundo mensaje 2.1
-
-oct 06, 2020 7:02:44 PM flujosDatos.EjemplosBasicos archivoRegistro
+sep. 23, 2024 12:07:32 P. M. flujosDatos.EjemplosBasicos archivoRegistro
 GRAVE: Tercer mensaje 3.1
