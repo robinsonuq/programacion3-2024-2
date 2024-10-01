@@ -1,6 +1,4 @@
-package recursividad;
 
-import java.util.Iterator;
 
 public class Matriuska {
 
